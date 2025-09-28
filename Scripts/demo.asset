@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 4
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b986a462ac762754aa529655a779ec3a, type: 3}
+  m_Name: demo
+  m_EditorClassIdentifier: 
+  decision_1_text:
+  - ' I need a map.'
+  decision_1_bravery_effect: 0f000000
+  decision_1_loyalty_effect: 05000000
+  decision_1_helpfulness_effect: 00000000
+  decision_2_text:
+  - I'm scared
+  decision_2_bravery_effect: f1ffffff
+  decision_2_loyalty_effect: fbffffff
+  decision_2_helpfulness_effect: 00000000
+  message_box_texts:
+  - Hey! What do you want from me?
+  - I need you to go check the shopkeeper among this way.
+  - Okay, good bye!

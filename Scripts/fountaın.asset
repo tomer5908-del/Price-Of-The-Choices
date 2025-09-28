@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 4
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b986a462ac762754aa529655a779ec3a, type: 3}
+  m_Name: "founta\u0131n"
+  m_EditorClassIdentifier: 
+  decision_1_text:
+  - Don't worry, I'll help you!
+  decision_1_bravery_effect: 05000000
+  decision_1_loyalty_effect: 05000000
+  decision_1_helpfulness_effect: 1e000000
+  decision_2_text:
+  - No thanks old man.
+  decision_2_bravery_effect: 0a000000
+  decision_2_loyalty_effect: f6ffffff
+  decision_2_helpfulness_effect: d8ffffff
+  message_box_texts:
+  - Hey! I need help, I can't find my friend's house.
+  - Thanks! I appreciate it a lot.
+  - You are so rude :(
